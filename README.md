@@ -14,7 +14,6 @@
 Sou <b>Bruna Gavioli</b>, estudante de <b>Análise e Desenvolvimento de Sistemas</b>, focada em dominar a linguagem <b>Python</b> para a resolução de problemas e desenvolvimento de software. Meu objetivo é utilizar a versatilidade do Python para criar soluções lógicas, automatizar processos e analisar dados.
 </p>
   
-#
 
 <img align="right" alt="Luci thinking GIF" height="190px" src="https://cdn.dribbble.com/userupload/23410248/file/original-8a87665947cd9214c8bc509616b00872.gif">
 
@@ -35,7 +34,7 @@ Sou <b>Bruna Gavioli</b>, estudante de <b>Análise e Desenvolvimento de Sistemas
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFA500" alt="github logo"  />
 </div>
 
-#
+---
 
 <div style="text-align: center;" align="center">
   <h3 style="color:#FFA500;">* GitHub Stats *</h3>
@@ -47,12 +46,10 @@ Sou <b>Bruna Gavioli</b>, estudante de <b>Análise e Desenvolvimento de Sistemas
   </a>
 </div>
 
-#
+---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunaGavioli/BrunaGavioli/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunaGavioli/BrunaGavioli/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrunaGavioli/BrunaGavioli/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrunaGavioli/BrunaGavioli/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrunaGavioli/BrunaGavioli/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BrunaGavioli/BrunaGavioli/output/github-contribution-grid-snake.svg">
+</picture>
