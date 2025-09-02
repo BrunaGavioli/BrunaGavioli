@@ -34,10 +34,10 @@ Sou <b>Bruna Gavioli</b>, estudante de <b>Análise e Desenvolvimento de Sistemas
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFA500" alt="github logo"  />
 </div>
 
----
+#
 
 <div style="text-align: center;" align="center">
-  <h3 style="color:#FFA500;">* GitHub Stats *</h3>
+  <h3 style="color:#FFA500;">GitHub Stats</h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=BrunaGavioli&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FFA500&text_color=FFA500&border_radius=3&border_color=FFA500&icon_color=FFA500&theme=dark" alt="GitHub stats">
 
